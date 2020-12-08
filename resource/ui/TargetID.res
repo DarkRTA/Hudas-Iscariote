@@ -20,6 +20,10 @@
 		"teambg_2_lodef"	"../hud/objectives_timepanel_red_bg"
 		"teambg_3"		"../hud/objectives_timepanel_blue_bg"
 		"teambg_3_lodef"	"../hud/objectives_timepanel_blue_bg"
+		"teambg_4"		"../hud/objectives_timepanel_green_bg"
+		"teambg_4_lodef"	"../hud/objectives_timepanel_green_bg"
+		"teambg_5"		"../hud/objectives_timepanel_yellow_bg"
+		"teambg_5_lodef"	"../hud/objectives_timepanel_yellow_bg"
 		"src_corner_height"		"23"				// pixels inside the image
 		"src_corner_width"		"23"
 			
